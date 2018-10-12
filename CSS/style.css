@@ -1,0 +1,15 @@
+.topicbtn{
+    margin: 2px;
+}
+.giphyImg{
+    margin: 5px 10px 0 5px;
+}
+img{
+    margin: 5px;
+    height: 200px;
+    width: 200px;
+    border:5px red groove;
+}
+.jumbotron{
+    font: 50px
+}
