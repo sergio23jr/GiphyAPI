@@ -1,2 +1,2 @@
 # GiphyAPI
-Screen Shot 2018-10-16 at 11.02.05 AM
+![alt text] https://raw.githubusercontent.com/sergio23jr/GiphyAPI/master/IMAGES/.png)
